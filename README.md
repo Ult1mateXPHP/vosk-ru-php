@@ -1,5 +1,7 @@
 <h3>ДЕМО VOSK RU распознование речи для PHP</h3>
 <hr>
+Установка пакетов:
+<code>composer install/composer update</code><br>
 Запуск сервера:
 <code>./vosk.sh</code><br>
 Запуск скриптов:
