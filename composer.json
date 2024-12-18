@@ -1,0 +1,7 @@
+{
+    "name": "ult1matex/vosk",
+    "minimum-stability": "dev",
+    "require": {
+        "textalk/websocket": "1.6.3"
+    }
+}

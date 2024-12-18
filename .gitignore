@@ -1,0 +1,7 @@
+/model/*
+/input/audio.wav
+/input/input.wav
+composer.lock
+/vendor
+/src/output.txt
+.idea
